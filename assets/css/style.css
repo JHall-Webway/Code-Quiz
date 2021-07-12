@@ -1,3 +1,7 @@
+:root {
+    
+}
+
 body {
     margin: 0;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -27,11 +31,15 @@ background: cornflowerblue;
 color: white;
 border-bottom: 2px solid black;
 }
+
 main h1, main p {
     margin: 0;
     padding: 15px
 }
+
 main button {
     margin: 15px;
     padding: 5px;
+    font-weight: bold;
+    border-radius: 5px;
 }
